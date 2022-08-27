@@ -12,7 +12,7 @@ It's a calculator with basic functionality. With this calculator you can do :
   - Delete last character
   - Delete all characters
 
-## What did I learn ?
+## What I learned ?
 
   - Array manipulation
   - DOM manipulation
