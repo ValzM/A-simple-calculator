@@ -5,7 +5,7 @@ I realized this project in order to practice the basics of javascript and DOM ma
 
 ## Description
 
-It is a calculator with basic functionality. With this calculator you can do :
+It's a calculator with basic functionality. With this calculator you can do :
   - Additions
   - Subtractions
   - Divisions
