@@ -12,3 +12,8 @@ It's a calculator with basic functionality. With this calculator you can do :
   - Delete last character
   - Delete all characters
 
+## What did I learn ?
+
+  - Array manipulation
+  - DOM manipulation
+  - Event Listener
